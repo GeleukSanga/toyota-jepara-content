@@ -1,0 +1,32 @@
+[
+  {
+    "src": "/testimoni/testimoni-video.mp4",
+    "vertical": true,
+    "poster": "/testimoni/testimoni-video.jpg"
+  },
+  {
+    "src": "/testimoni/testimoni-video-2.mp4",
+    "vertical": true,
+    "poster": "/testimoni/testimoni-video-2.jpg"
+  },
+  {
+    "src": "/testimoni/testimoni-video-3.mp4",
+    "vertical": false,
+    "poster": "/testimoni/testimoni-video-3.jpg"
+  },
+  {
+    "src": "/testimoni/testimoni-video-4.mp4",
+    "vertical": true,
+    "poster": "/testimoni/testimoni-video-4.jpg"
+  },
+  {
+    "src": "/testimoni/testimoni-video-5.mp4",
+    "vertical": true,
+    "poster": "/testimoni/testimoni-video-5.jpg"
+  },
+  {
+    "src": "/testimoni/testimoni-video-6.mp4",
+    "vertical": true,
+    "poster": "/testimoni/testimoni-video-6.jpg"
+  }
+]

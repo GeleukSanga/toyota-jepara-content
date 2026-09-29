@@ -1,0 +1,864 @@
+[
+  {
+    "bonus": "Karpet + Kaca Film",
+    "deskripsi": "MPV 7 penumpang irit untuk keluarga Jepara. Cicilan ringan, perawatan mudah.",
+    "fitur": [
+      "7 penumpang lega",
+      "Irit BBM untuk harian",
+      "Transmisi manual & matic",
+      "Cocok untuk keluarga dan usaha"
+    ],
+    "kategori": "MPV",
+    "nama": "Calya",
+    "slug": "calya",
+    "tagline": "7 penumpang irit untuk keluarga",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 182100000,
+        "nama": "1.2 E STD MT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 185500000,
+        "nama": "1.2 E MT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 191400000,
+        "nama": "1.2 G MT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 206400000,
+        "nama": "1.2 G AT",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver",
+      "Hitam",
+      "Abu-abu"
+    ],
+    "foto": "/mobil/calya.png"
+  },
+  {
+    "bonus": "Karpet + Kaca Film",
+    "deskripsi": "City car lincah untuk anak muda dan mobil pertama. Parkir gampang, BBM irit.",
+    "fitur": [
+      "Lincah di kota",
+      "Varian GR Sport tersedia",
+      "Irit dan pajak ringan",
+      "Cocok mobil pertama"
+    ],
+    "kategori": "Hatchback",
+    "nama": "Agya",
+    "slug": "agya",
+    "tagline": "Lincah, irit, gaya GR Sport",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 194800000,
+        "nama": "1.2 G MT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 209100000,
+        "nama": "1.2 G CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 215300000,
+        "nama": "1.2 G CVT Stylix",
+        "status": "TANYA"
+      },
+      {
+        "bonus": "Karpet + Kaca Film + Anti Karat",
+        "estimasi": "",
+        "harga": 264600000,
+        "nama": "1.2 GR-S MT 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "bonus": "Karpet + Kaca Film + Anti Karat",
+        "estimasi": "",
+        "harga": 267300000,
+        "nama": "1.2 GR-S MT 2Tone",
+        "status": "TANYA"
+      },
+      {
+        "bonus": "Karpet + Kaca Film + Anti Karat",
+        "estimasi": "",
+        "harga": 282100000,
+        "nama": "1.2 GR-S CVT 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "bonus": "Karpet + Kaca Film + Anti Karat",
+        "estimasi": "",
+        "harga": 284800000,
+        "nama": "1.2 GR-S CVT 2Tone",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Merah",
+      "Hitam",
+      "Silver"
+    ],
+    "foto": "/mobil/agya.jpg"
+  },
+  {
+    "bonus": "Karpet + Kaca Film",
+    "deskripsi": "Hatchback GR sporty dengan 3 airbags. Lincah, aman, berjiwa muda.",
+    "fitur": [
+      "Varian GR Sport",
+      "3 airbags",
+      "Transmisi CVT responsif",
+      "Cocok anak muda"
+    ],
+    "kategori": "Hatchback",
+    "nama": "Yaris",
+    "slug": "yaris",
+    "tagline": "Hatchback GR sporty",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 368100000,
+        "nama": "1.5 S CVT GR 3 Airbags 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 372300000,
+        "nama": "1.5 S CVT GR 3 Airbags 2Tone",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Merah",
+      "Hitam"
+    ],
+    "foto": "/mobil/yaris.jpg"
+  },
+  {
+    "bonus": "Karpet + Kaca Film + Anti Karat",
+    "deskripsi": "MPV sejuta umat. Kabin lega 7 penumpang, nyaman untuk mudik dan usaha travel.",
+    "fitur": [
+      "Kabin 7 penumpang lega",
+      "Pilihan 1.3 & 1.5",
+      "Manual & CVT",
+      "Nilai jual kembali kuat"
+    ],
+    "kategori": "MPV",
+    "nama": "Avanza",
+    "slug": "avanza",
+    "tagline": "MPV keluarga paling laris",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 261000000,
+        "nama": "1.3 E MT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 276800000,
+        "nama": "1.3 E CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 285100000,
+        "nama": "1.5 G MT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 300700000,
+        "nama": "1.5 G CVT",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver",
+      "Hitam",
+      "Abu-abu"
+    ],
+    "foto": "/mobil/avanza.jpg"
+  },
+  {
+    "bonus": "Karpet + Kaca Film + Anti Karat",
+    "deskripsi": "Avanza versi premium. Fitur lebih lengkap, tampilan lebih mewah, kini ada Hybrid.",
+    "fitur": [
+      "Fitur premium lengkap",
+      "Tersedia varian Hybrid irit",
+      "Kabin senyap & nyaman",
+      "Cocok upgrade dari Avanza"
+    ],
+    "kategori": "MPV",
+    "nama": "Veloz",
+    "slug": "veloz",
+    "tagline": "MPV premium, kini ada Hybrid",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 317500000,
+        "nama": "V HEV CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 342500000,
+        "nama": "Q HEV CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 367500000,
+        "nama": "Q HEV Modellista 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 370000000,
+        "nama": "Q HEV Modellista 2Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 402500000,
+        "nama": "Q HEV TSS Modellista 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 405000000,
+        "nama": "Q HEV TSS Modellista 2Tone",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver",
+      "Hitam"
+    ],
+    "foto": "/mobil/veloz.png"
+  },
+  {
+    "bonus": "Karpet + Kaca Film",
+    "deskripsi": "SUV kompak turbo yang irit dan bertenaga. Favorit anak muda Jepara-Kudus.",
+    "fitur": [
+      "Mesin turbo bertenaga",
+      "Dimensi kompak, parkir mudah",
+      "Ground clearance tinggi",
+      "Varian GR tersedia"
+    ],
+    "kategori": "SUV",
+    "nama": "Raize",
+    "slug": "raize",
+    "tagline": "SUV kompak turbo favorit",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 275400000,
+        "nama": "1.2 G CVT 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 280900000,
+        "nama": "1.0T G MT 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 294500000,
+        "nama": "1.0T G CVT 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "Spot Order",
+        "harga": 297300000,
+        "nama": "1.0T G CVT 2Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 309400000,
+        "nama": "1.0T GR CVT 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 312200000,
+        "nama": "1.0T GR CVT 2Tone",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Merah",
+      "Hitam",
+      "Silver"
+    ],
+    "foto": "/mobil/raize.webp"
+  },
+  {
+    "bonus": "Karpet + Kaca Film + Anti Karat",
+    "deskripsi": "SUV 7 penumpang tangguh untuk segala medan. Kuat nanjak dan muatan penuh.",
+    "fitur": [
+      "7 penumpang tangguh",
+      "Cocok jalan desa & luar kota",
+      "Varian GR Sport",
+      "Bagasi luas"
+    ],
+    "kategori": "SUV",
+    "nama": "Rush",
+    "slug": "rush",
+    "tagline": "SUV 7 penumpang tangguh",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 327100000,
+        "nama": "1.5 S MT GR",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 338200000,
+        "nama": "1.5 S AT GR",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Hitam",
+      "Silver",
+      "Bronze"
+    ],
+    "foto": "/mobil/rush.png"
+  },
+  {
+    "bonus": "Karpet + Kaca Film",
+    "deskripsi": "SUV 5 penumpang bensin & Hybrid. Irit khas Hybrid, fitur Toyota Safety Sense.",
+    "fitur": [
+      "Pilihan bensin & Hybrid",
+      "Toyota Safety Sense",
+      "Bagasi luas 5 penumpang",
+      "Desain modern"
+    ],
+    "kategori": "SUV",
+    "nama": "Yaris Cross",
+    "slug": "yaris-cross",
+    "tagline": "SUV Hybrid irit & aman",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 439600000,
+        "nama": "1.5 S CVT TSS",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 424000000,
+        "nama": "1.5 G HV CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 482400000,
+        "nama": "1.5 S HV CVT TSS GR",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver",
+      "Hitam",
+      "Grey"
+    ],
+    "foto": "/mobil/yaris-cross.jpg"
+  },
+  {
+    "bonus": "Karpet + Kaca Film + Anti Karat",
+    "deskripsi": "Legenda diesel yang bandel dan irit. Favorit travel dan keluarga besar.",
+    "fitur": [
+      "Mesin diesel 2.4 bandel",
+      "Irit untuk jarak jauh",
+      "Kabin lega 7-8 penumpang",
+      "Perawatan mudah"
+    ],
+    "kategori": "MPV",
+    "nama": "Innova Reborn",
+    "slug": "innova-reborn",
+    "tagline": "Diesel bandel favorit travel",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 443600000,
+        "nama": "G 2.4 MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 465400000,
+        "nama": "G 2.4 AT Diesel",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver",
+      "Hitam",
+      "Abu-abu"
+    ],
+    "foto": "/mobil/innova-reborn.jpg"
+  },
+  {
+    "bonus": "Karpet + Kaca Film + Anti Karat",
+    "deskripsi": "Innova generasi baru. Bensin & Hybrid, kabin senyaman SUV premium.",
+    "fitur": [
+      "Pilihan bensin & Hybrid",
+      "Kabin lapang & senyap",
+      "Fitur Modellista",
+      "Cocok keluarga mapan"
+    ],
+    "kategori": "MPV",
+    "nama": "Zenix",
+    "slug": "zenix",
+    "tagline": "Innova modern, ada Hybrid",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 461200000,
+        "nama": "2.0 G CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 509400000,
+        "nama": "2.0 V CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 500400000,
+        "nama": "2.0 G HV CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 577000000,
+        "nama": "2.0 V HV Modellista CVT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 657700000,
+        "nama": "2.0 Q HV Modellista CVT",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver",
+      "Hitam",
+      "Grey"
+    ],
+    "foto": "/mobil/zenix.png"
+  },
+  {
+    "bonus": "Karpet + Kaca Film + Anti Karat",
+    "deskripsi": "SUV ladder-frame gagah bermesin diesel 2.8. Raja jalanan luar kota.",
+    "fitur": [
+      "Diesel 2.8 bertenaga",
+      "4x2 & 4x4 tersedia",
+      "Varian GR Sport",
+      "Kabin premium 7 penumpang"
+    ],
+    "kategori": "SUV",
+    "nama": "Fortuner",
+    "slug": "fortuner",
+    "tagline": "SUV diesel gagah",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 715000000,
+        "nama": "2.8 VRZ GR Aeropack TSS 4x2 1Tone",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 802900000,
+        "nama": "2.8 VRZ 4x4",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 827900000,
+        "nama": "2.8 VRZ GR Sport TSS 4x4 1Tone",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Hitam",
+      "Silver"
+    ],
+    "foto": "/mobil/fortuner.png"
+  },
+  {
+    "bonus": "Karpet + Anti Karat",
+    "deskripsi": "Double cabin pekerja keras. Bak luas, diesel 2.8, siap tambang, kebun, proyek.",
+    "fitur": [
+      "Bak luas & kuat",
+      "Diesel 2.8 irit",
+      "Single & double cabin",
+      "Cocok usaha & proyek"
+    ],
+    "kategori": "Niaga",
+    "nama": "Hilux",
+    "slug": "hilux",
+    "tagline": "Pekerja keras segala medan",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 439800000,
+        "nama": "S-Cab 2.8 4x4 MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 504700000,
+        "nama": "D-Cab 2.8 E 4x4 MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 530100000,
+        "nama": "D-Cab 2.8 G 4x4 MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 613500000,
+        "nama": "D-Cab 2.8 V 4x4 AT Diesel",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver",
+      "Hitam"
+    ],
+    "foto": "/mobil/hilux.png"
+  },
+  {
+    "bonus": "Karpet + Kaca Film + Anti Karat",
+    "deskripsi": "Pickup serbaguna bensin & diesel untuk usaha. Sasis kuat, bak luas, murah perawatan.",
+    "fitur": [
+      "Bensin & diesel",
+      "Bak standar & 3-way",
+      "Sasis ladder kuat",
+      "Cocok UMKM & niaga"
+    ],
+    "kategori": "Niaga",
+    "nama": "Rangga",
+    "slug": "rangga",
+    "tagline": "Pickup andalan usaha",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 209100000,
+        "nama": "Cab-Chassis MB 2.0 STD MT Bensin",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 210300000,
+        "nama": "Cab-Chassis PU 2.0 STD MT Bensin",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 214200000,
+        "nama": "Pickup 2.0 STD MT Bensin",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 215200000,
+        "nama": "Pickup 2.0 STD 3Way MT Bensin",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 238300000,
+        "nama": "Pickup 2.0 High MT Bensin",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 265200000,
+        "nama": "Cab-Chassis PU 2.4 STD MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 265200000,
+        "nama": "Cab-Chassis MB 2.4 STD MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 270100000,
+        "nama": "Pickup 2.4 STD MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 271300000,
+        "nama": "Pickup 2.4 STD 3Way MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 306700000,
+        "nama": "Pickup 2.4 High MT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 321400000,
+        "nama": "Cab-Chassis PU 2.4 High AT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 321400000,
+        "nama": "Cab-Chassis MB 2.4 High AT Diesel",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 328300000,
+        "nama": "Pickup 2.4 High AT Diesel",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Hitam",
+      "Silver"
+    ],
+    "foto": "/mobil/rangga.jpg"
+  },
+  {
+    "bonus": "Kaca Film",
+    "deskripsi": "Van besar untuk travel, antar-jemput, dan operasional. Nyaman 14+ penumpang.",
+    "fitur": [
+      "Kapasitas besar",
+      "Commuter & Premio",
+      "Nyaman jarak jauh",
+      "Cocok travel & perusahaan"
+    ],
+    "kategori": "Niaga",
+    "nama": "Hiace",
+    "slug": "hiace",
+    "tagline": "Van besar untuk travel",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 610300000,
+        "nama": "Commuter MT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 718800000,
+        "nama": "Premio 2.8 MT",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Silver"
+    ],
+    "foto": "/mobil/hiace.jpg"
+  },
+  {
+    "bonus": "Karpet + Kaca Film",
+    "deskripsi": "MPV premium untuk eksekutif dan keluarga. Kabin senyaman first class.",
+    "fitur": [
+      "Kabin captain seat",
+      "Bensin & Hybrid",
+      "Fitur keselamatan lengkap",
+      "Simbol kemapanan"
+    ],
+    "kategori": "Premium",
+    "nama": "Alphard & Vellfire",
+    "slug": "alphard-vellfire",
+    "tagline": "MPV premium eksekutif",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 1366000000,
+        "nama": "Alphard 2.5 XE",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 1469000000,
+        "nama": "Alphard 2.5 XE Hybrid",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 1741400000,
+        "nama": "Alphard 2.5 G",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 1829000000,
+        "nama": "Alphard 2.5 Hybrid",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 1969400000,
+        "nama": "Vellfire 2.5 VIP Hybrid",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Hitam"
+    ],
+    "foto": "/mobil/alphard-vellfire.jpg"
+  },
+  {
+    "bonus": "Karpet + Kaca Film",
+    "deskripsi": "Legenda 4x4 sejati. Tenaga besar, mewah, siap jelajah apapun.",
+    "fitur": [
+      "4x4 sejati",
+      "Bensin & Hybrid",
+      "Kabin super mewah",
+      "Ikon ketangguhan"
+    ],
+    "kategori": "Premium",
+    "nama": "Land Cruiser",
+    "slug": "land-cruiser",
+    "tagline": "Legenda 4x4 sejati",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 2765200000,
+        "nama": "300 VX-R 4x4",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 2847000000,
+        "nama": "300 VX-R HEV",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 2883700000,
+        "nama": "300 GR-S 4x4",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 2984000000,
+        "nama": "300 GR-S HEV",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Hitam",
+      "Silver"
+    ],
+    "foto": "/mobil/land-cruiser.jpg"
+  },
+  {
+    "bonus": "Karpet",
+    "deskripsi": "Sedan premium nyaman untuk eksekutif. Bensin & Hybrid, kabin senyap.",
+    "fitur": [
+      "Sedan premium",
+      "Pilihan Hybrid irit",
+      "Kabin senyap & nyaman",
+      "Cocok eksekutif"
+    ],
+    "kategori": "Premium",
+    "nama": "Camry",
+    "slug": "camry",
+    "tagline": "Sedan eksekutif nyaman",
+    "tampil": true,
+    "updatedAt": "2026-09-01",
+    "varian": [
+      {
+        "estimasi": "",
+        "harga": 897200000,
+        "nama": "2.5 V AT",
+        "status": "TANYA"
+      },
+      {
+        "estimasi": "",
+        "harga": 1024800000,
+        "nama": "2.5 L HV AT",
+        "status": "TANYA"
+      }
+    ],
+    "warna": [
+      "Putih",
+      "Hitam",
+      "Silver"
+    ],
+    "foto": "/mobil/camry.jpg"
+  }
+]
